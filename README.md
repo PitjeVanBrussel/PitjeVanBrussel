@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PitjeVanBrussel
+- 👀 I’m interested in coding Mac OS Terminal commands
+- 🌱 I’m currently learning for my pleasure
